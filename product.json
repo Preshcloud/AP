@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Oraimo FreePods 4",
+      "price": 12000,
+      "image": "https://www.jumia.com.ng/oraimo-a9-pro-bluetooth-earbuds-wireless-headphone-headset-airpods-395982787.html",
+      "category": "Accessories"
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy A14",
+      "price": 98000,
+      "image": "https://ng.jumia.is/image2.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": 3,
+      "title": "Power Bank 20000mAh",
+      "price": 7500,
+      "image": "https://ng.jumia.is/image3.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 4,
+      "title": "Infinix Smart 7",
+      "price": 65000,
+      "image": "https://ng.jumia.is/image4.jpg",
+      "category": "Phones"
+    },
+    {
+      "id": 5,
+      "title": "Binatone Standing Fan",
+      "price": 24500,
+      "image": "https://ng.jumia.is/image5.jpg",
+      "category": "Home Appliances"
+    },
+    {
+      "id": 6,
+      "title": "Sony Bluetooth Speaker",
+      "price": 30000,
+      "image": "https://ng.jumia.is/image6.jpg",
+      "category": "Electronics"
+    }
+  ]
+  
